@@ -1,8 +1,6 @@
 # HikVision-Access-Log-Export-over-API
 Python exporting access log data script from HikVision ACS via API.
 
-Ниже краткий блок для `README.md` по скрипту `hik_acsevent_export.py` :
-
 ````md
 ## Экспорт событий доступа Hikvision
 
