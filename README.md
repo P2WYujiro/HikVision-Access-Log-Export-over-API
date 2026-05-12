@@ -11,8 +11,6 @@ Python HikVision ACS access log exporting API script.
 - Python 3
 - `curl`
 - Для экспорта в XLSX:
-
-```bash
 pip install openpyxl
 ````
 
