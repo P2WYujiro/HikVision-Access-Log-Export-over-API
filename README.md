@@ -1,5 +1,5 @@
 # HikVision-Access-Log-Export-over-API
-Python exporting access log data script from HikVision ACS via API.
+Python HikVision ACS access log exporting API script.
 
 ````md
 ## Экспорт событий доступа Hikvision
